@@ -1,7 +1,7 @@
 
 # Issues
 
-Issues are for bugs. If you have questions, ask them on a [community forum][comm]. Folks are friendly and happy to help!
+Issues are for bugs or feature requests. If you have questions, ask them on a [community forum][comm]. Folks are friendly and happy to help!
 
 [comm]: http://elm-lang.org/community
 
